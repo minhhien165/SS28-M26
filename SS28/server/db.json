@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "quantity": 20,
+      "description": "A stylish hip bag",
+      "image": "https://bedental.vn/wp-content/uploads/2022/11/ho-1024x1024.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "quantity": 2,
+      "description": "A fancy bag with patterns",
+      "image": "https://haycafe.vn/wp-content/uploads/2022/11/anh-12-con-giap-cute-3D-con-ran-tuoi-Ty.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Beautiful Handbag",
+      "price": 50,
+      "quantity": 10,
+      "description": "A beautiful handbag for all occasions",
+      "image": "https://o.vdoc.vn/data/image/2022/12/02/anh-12-con-giap-5.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Bag",
+      "price": 30,
+      "quantity": 12
+    },
+    {
+      "id": 2,
+      "name": "Lie Lie Bag",
+      "price": 30,
+      "quantity": 12
+    },
+    {
+      "id": 3,
+      "name": "Beautiful Handbag",
+      "price": 50,
+      "quantity": 12
+    }
+  ]
+}
